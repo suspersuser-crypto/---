@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "СВАЛКА",
+      "hasCanvas": true,
+      "bodyTextLen": 377,
+      "bodyTextHash": "28c64659fdb1330535cb0e25242f1182bf4da941d82601cfad9885c830fe4f91",
+      "bodyTextPrefix": "ФИЗИЧЕСКАЯ ПЕСОЧНИЦА СВАЛКА Рэгдоллы, клешня, тачка и цепные взр",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/svalka-dev.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "СВАЛКА",
+      "hasCanvas": true,
+      "bodyTextLen": 377,
+      "bodyTextHash": "28c64659fdb1330535cb0e25242f1182bf4da941d82601cfad9885c830fe4f91",
+      "bodyTextPrefix": "ФИЗИЧЕСКАЯ ПЕСОЧНИЦА СВАЛКА Рэгдоллы, клешня, тачка и цепные взр",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/svalka-dev-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/svalka-dev.json"
+}
